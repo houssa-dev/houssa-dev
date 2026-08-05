@@ -24,3 +24,16 @@
 <img src="./assets/launchpad.svg" width="100%" alt="Project launchpad and availability for Houssaine Ahabchane" />
 
 </div>
+
+---
+
+<div align="center">
+
+<img src="./assets/activity-board.svg" width="100%" alt="GitHub activity and developer roadmap for Houssaine Ahabchane" />
+
+<br/>
+
+[![Profile](https://img.shields.io/badge/VIEW_PROFILE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houssa-dev)
+[![Repositories](https://img.shields.io/badge/EXPLORE_REPOSITORIES-4338CA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houssa-dev?tab=repositories)
+
+</div>
