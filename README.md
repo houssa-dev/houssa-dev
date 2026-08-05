@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-console.svg" width="100%" alt="Animated profile and contribution wave for Houssaine Ahabchane" />
+<img src="./assets/profile-wave.svg" width="100%" alt="Animated profile and contribution wave for Houssaine Ahabchane" />
 
 <br/>
 
