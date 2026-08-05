@@ -31,6 +31,22 @@
 
 <img src="./assets/activity-board.svg" width="100%" alt="GitHub activity and developer roadmap for Houssaine Ahabchane" />
 
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/dev-routine.svg" width="100%" alt="Developer routine for Houssaine Ahabchane" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./assets/open-source-hub.svg" width="100%" alt="Open source hub for Houssaine Ahabchane" />
+
 <br/>
 
 [![Profile](https://img.shields.io/badge/VIEW_PROFILE-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houssa-dev)
