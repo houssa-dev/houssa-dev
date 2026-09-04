@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,100:818cf8&height=220&section=header&text=HAVERION%20TECH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Houssaine%20Ahabchane%20%C2%B7%20Khénifra,%20Morocco&descAlignY=55&descSize=18" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,100:818cf8&height=220&section=header&text=AI%20ITRI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Houssaine%20Ahabchane%20%C2%B7%20Khénifra,%20Morocco&descAlignY=55&descSize=18" width="100%" alt="header" />
 
 <br/>
 
