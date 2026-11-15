@@ -1,119 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,100:818cf8&height=220&section=header&text=AI%20ITRI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Houssaine%20Ahabchane%20%C2%B7%20Khénifra,%20Morocco&descAlignY=55&descSize=18" width="100%" alt="header" />
-
-<br/>
-
-<a href="https://github.com/houssa-dev">
-<img src="https://readme-typing-svg.demolab.com/?lines=whoami%3F;Full-Stack+Engineer;Building+Haverion+Tech;Currently+mastering+React;API-First+%7C+Event-Driven+%7C+Modular;Khenifra%2C+Morocco&font=Fira+Code&center=true&width=600&height=45&color=818cf8&vCenter=true&size=22" alt="Typing SVG" />
+<a href="https://el-hossaine-ahabchane.vercel.app/">
+  <img src="./assets/hero.svg" width="100%" alt="Elhoussaine Ahabchane, Full-Stack Developer in Khénifra, Morocco. Next.js, TypeScript, React, Node.js, PostgreSQL. I build web apps for Moroccan businesses, from the database to the UI. Open to freelance projects and full-time roles." />
 </a>
 
-<br/><br/>
-
-<img src="./assets/profile-wave.svg" width="100%" alt="Animated profile and contribution wave for Houssaine Ahabchane" />
-
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=E5E7EB)](https://github.com/houssa-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/houssa-dev/)
+<a href="https://el-hossaine-ahabchane.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-e0703a?style=for-the-badge&labelColor=15110f" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/elhoussaine-ahabchane/"><img src="https://img.shields.io/badge/LINKEDIN-f2a74b?style=for-the-badge&logo=linkedin&logoColor=f6ead9&labelColor=15110f" alt="LinkedIn" /></a>
+<a href="https://github.com/houssa-dev"><img src="https://img.shields.io/badge/GITHUB-f6ead9?style=for-the-badge&logo=github&logoColor=f6ead9&labelColor=15110f" alt="GitHub" /></a>
 
 </div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=houssa-dev&label=Profile+Views&color=818cf8&style=flat" alt="visitor count" />
-
+  <img src="./assets/about.svg" width="100%" alt="About: I'm a full-stack developer from Khénifra, Morocco. I build web apps with Next.js, TypeScript, Tailwind CSS and Node.js, from the database to the UI. Lately I've been working on real products, not tutorials. I like to start from the actual problem a business has, then pick the simplest solution that holds up." />
 </div>
 
 <br/>
 
-## 00 · Field Notes
+### Selected work
 
-<table align="center">
-<tr>
-<td>
+<sub>Products I designed, built and deployed. Each card opens the live site or demo.</sub>
 
-```
-LOG  2026-09   Rebuilding React fundamentals via FreelanceHub — real bugs, real fixes.
-LOG  2026-08   Shipping API-first services with Hono + Zod. Small. Typed. Composable.
-LOG  2026-07   Thinking in event-driven, microservice patterns for AI platforms.
-LOG  ongoing   Refining Haverion Tech — code and brand, same care, same standard.
-```
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://ecommirs.vercel.app/"><img src="./assets/project-ecommirs.svg" width="49%" alt="Ecommirs, online electronics store. Live. Next.js, TypeScript, Neon PostgreSQL, Tailwind CSS." /></a>
+  <a href="https://awrach.vercel.app/en"><img src="./assets/project-awrach.svg" width="49%" alt="Awrach, construction management platform. Demo, in development. Next.js, TypeScript, Tailwind CSS." /></a>
+  <a href="https://fitledger-iota.vercel.app/dashboard"><img src="./assets/project-fitledger.svg" width="49%" alt="FitLedger, gym management platform. Demo. Next.js, TypeScript, Tailwind CSS." /></a>
+  <a href="https://islam-plus.vercel.app/"><img src="./assets/project-islam-plus.svg" width="49%" alt="Islam Plus, installable Islamic companion PWA. Live. Next.js, TypeScript, PWA." /></a>
+</p>
 
 <br/>
 
-## 01 · Stack
+### Technical expertise
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,git,vite,figma&theme=dark" alt="skill icons" />
-
+  <img src="./assets/expertise.svg" width="100%" alt="Frontend: React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML5, CSS3, React Router, Vite. Backend and data: Node.js, REST APIs, PostgreSQL, Neon, YouCan Pay payments. Product and UX: responsive web design, UX design, PWAs, Arabic, French and English interfaces. Delivery: Git, GitHub, Vercel." />
 </div>
 
 <br/>
 
-```
-principle(01) → understand before you code
-principle(02) → modular > monolithic
-principle(03) → API-first, always
-principle(04) → typed everything
-principle(05) → clean architecture is a habit, not a phase
-```
-
-<br/>
-
-## 02 · System Map
+### GitHub activity
 
 <div align="center">
-<img src="./assets/learning-map.svg" width="100%" alt="Full stack engineering system map for Houssaine Ahabchane" />
+  <img src="./assets/activity.svg" width="100%" alt="GitHub contribution calendar for the last 12 months, generated from GitHub's public contribution data." />
 </div>
 
 <br/>
 
-## 03 · The Numbers
+### Let's work together
 
-<div align="center">
+I'm open to freelance projects and full-time roles, remote or in Morocco. You can write to me in Darija, French or English.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=houssa-dev&theme=radical&hide_border=true&background=0D1117&ring=818CF8&fire=A78BFA&currStreakLabel=E5E7EB" height="165" alt="streak stats" />
+<p>
+  <a href="https://el-hossaine-ahabchane.vercel.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/elhoussaine-ahabchane/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://github.com/houssa-dev"><b>GitHub</b></a>
+</p>
 
-<br/>
-
-</div>
-
-<br/>
-
-## 04 · Mission Control
-
-<div align="center">
-
-<img src="./assets/launchpad.svg" width="100%" alt="Mission control for Houssaine Ahabchane" />
-
-</div>
-
-<br/>
-
-## 05 · Outside the Editor
-
-<div align="center">
-
-| ⚽ | 🎨 | 🗣️ | 📍 |
-|:---:|:---:|:---:|:---:|
-| Atlas Lions, always | Haverion Tech branding | Darija · Français · English | Khénifra, Morocco |
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:818cf8,100:4338ca&height=120&section=footer" width="100%" alt="footer" />
-
-**[github.com/houssa-dev](https://github.com/houssa-dev)** — always building something.
-
-</div>
+<sub>Artwork is generated from <code>config.json</code> by <code>scripts/generate.py</code>; the activity panel is a dated snapshot of GitHub contribution data.</sub>
