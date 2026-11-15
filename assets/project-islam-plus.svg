@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="236" viewBox="0 0 440 236" role="img" aria-label="Islam Plus: Installable Islamic companion (PWA)"><defs>
+<linearGradient id="rim" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#e0703a"/><stop offset=".6" stop-color="#f2a74b"/><stop offset="1" stop-color="#f2a74b" stop-opacity="0"/></linearGradient>
+<radialGradient id="flare" cx="82%" cy="30%" r="60%"><stop stop-color="#e0703a" stop-opacity=".22"/><stop offset=".5" stop-color="#e0703a" stop-opacity=".05"/><stop offset="1" stop-color="#0d0b0a" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+
+<style>
+.label{font:600 10px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#f2a74b;letter-spacing:2.2px}
+.muted{font:13px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;fill:#a8968a}
+.chip{font:600 11px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;fill:#f6ead9}
+.mono{font:12px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#a8968a}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+.rise{animation:rise .9s cubic-bezier(.22,.8,.2,1) both}
+.fade{animation:fade 1s cubic-bezier(.22,.8,.2,1) both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.idx{font:600 11px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#6f6058;letter-spacing:1.5px}.title{font:700 26px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;fill:#f6ead9;letter-spacing:-.6px}
+.kind{font:600 13px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;fill:#e0703a}.desc{font:12.5px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;fill:#a8968a}.st{font:700 9px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;letter-spacing:1.4px}
+.cta{font:600 10px ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#f2a74b;letter-spacing:1.6px}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}.pulse{animation:pulse 2.4s ease-in-out infinite}</style>
+</defs><rect width="440" height="236" rx="22" fill="#15110f"/><rect x="6" y="6" width="428" height="224" rx="17" fill="#0d0b0a" stroke="#3a2a22"/><rect x="6" y="6" width="428" height="224" rx="17" fill="url(#flare)"/><path d="M381.86 29.86h28.28v28.28h-28.28zM396.00 24.00L416.00 44.00L396.00 64.00L376.00 44.00z" fill="none" stroke="#3a2a22" stroke-width="1.2"/><text x="28" y="40" class="idx">04 / PROJECT</text><g transform="translate(28 54)"><rect width="58" height="20" rx="10" fill="#1c1512" stroke="#3a2a22"/><circle cx="12" cy="10" r="3.5" fill="#5fd38d" class="pulse"/><text x="22" y="13.5" class="st" fill="#5fd38d">LIVE</text></g><g class="rise"><text x="28" y="112" class="title">Islam Plus</text><text x="28" y="134" class="kind">Installable Islamic companion (PWA)</text><text x="28" y="158" class="desc">Arabic/English PWA with prayer times by city, adhan, Quran</text><text x="28" y="175" class="desc">reading, dhikr and Qibla direction. Installs and works offline.</text></g><g transform="translate(28.0 192.0)"><rect width="64.1" height="24" rx="12" fill="#1c1512" stroke="#3a2a22"/><text x="32.0" y="16" text-anchor="middle" class="chip">Next.js</text></g><g transform="translate(98.1 192.0)"><rect width="83.0" height="24" rx="12" fill="#1c1512" stroke="#3a2a22"/><text x="41.5" y="16" text-anchor="middle" class="chip">TypeScript</text></g><g transform="translate(187.1 192.0)"><rect width="38.9" height="24" rx="12" fill="#1c1512" stroke="#3a2a22"/><text x="19.4" y="16" text-anchor="middle" class="chip">PWA</text></g><g transform="translate(232.0 192.0)"><rect width="57.8" height="24" rx="12" fill="#1c1512" stroke="#3a2a22"/><text x="28.9" y="16" text-anchor="middle" class="chip">Vercel</text></g></svg>
