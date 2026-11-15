@@ -1,0 +1,63 @@
+{
+  "username": "houssa-dev",
+  "name": "Elhoussaine Ahabchane",
+  "role": "Full-Stack Developer",
+  "location": "Khénifra, Morocco",
+  "headline": "I build web apps for Moroccan businesses, from the database to the UI.",
+  "stack_line": "Next.js · TypeScript · React · Node.js · PostgreSQL",
+  "availability": ["Freelance projects", "Full-time roles", "Remote or in Morocco"],
+  "languages": "Darija · French · English",
+  "about": [
+    "I'm a full-stack developer from Khénifra, Morocco. I build web",
+    "apps with Next.js, TypeScript, Tailwind CSS and Node.js, from",
+    "the database to the UI.",
+    "",
+    "Lately I've been working on real products, not tutorials.",
+    "I like to start from the actual problem a business has, then",
+    "pick the simplest solution that holds up."
+  ],
+  "projects": [
+    {
+      "slug": "ecommirs",
+      "name": "Ecommirs",
+      "kind": "Online electronics store",
+      "status": "LIVE",
+      "lines": ["Product catalogue, cart, checkout and card payments", "through YouCan Pay. Interface in Arabic, French, English."],
+      "stack": ["Next.js", "TypeScript", "Neon PostgreSQL", "Tailwind CSS"],
+      "url": "https://ecommirs.vercel.app/"
+    },
+    {
+      "slug": "awrach",
+      "name": "Awrach",
+      "kind": "Construction management platform",
+      "status": "DEMO · IN DEVELOPMENT",
+      "lines": ["Helps BTP companies in Morocco run their worksites:", "attendance, salaries, site expenses in MAD, progress, reports."],
+      "stack": ["Next.js", "TypeScript", "Tailwind CSS", "Vercel"],
+      "url": "https://awrach.vercel.app/en"
+    },
+    {
+      "slug": "fitledger",
+      "name": "FitLedger",
+      "kind": "Gym management platform",
+      "status": "DEMO",
+      "lines": ["Members, subscriptions and renewals, payments and unpaid", "balances, expenses, product sales, inventory, monthly reports."],
+      "stack": ["Next.js", "TypeScript", "Tailwind CSS"],
+      "url": "https://fitledger-iota.vercel.app/dashboard"
+    },
+    {
+      "slug": "islam-plus",
+      "name": "Islam Plus",
+      "kind": "Installable Islamic companion (PWA)",
+      "status": "LIVE",
+      "lines": ["Arabic/English PWA with prayer times by city, adhan, Quran", "reading, dhikr and Qibla direction. Installs and works offline."],
+      "stack": ["Next.js", "TypeScript", "PWA", "Vercel"],
+      "url": "https://islam-plus.vercel.app/"
+    }
+  ],
+  "expertise": [
+    {"title": "FRONTEND", "items": ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS", "HTML5 · CSS3", "React Router", "Vite"]},
+    {"title": "BACKEND & DATA", "items": ["Node.js", "REST APIs", "PostgreSQL", "Neon", "YouCan Pay payments"]},
+    {"title": "PRODUCT & UX", "items": ["Responsive web design", "UX design", "PWAs & offline", "AR · FR · EN interfaces"]},
+    {"title": "DELIVERY", "items": ["Git", "GitHub", "Vercel", "Design → deploy → maintain"]}
+  ]
+}
