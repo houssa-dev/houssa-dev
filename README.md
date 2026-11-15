@@ -59,4 +59,4 @@ I'm open to freelance projects and full-time roles, remote or in Morocco. You ca
   <a href="https://github.com/houssa-dev"><b>GitHub</b></a>
 </p>
 
-<sub>Artwork is generated from <code>config.json</code> by <code>scripts/generate.py</code>; the activity panel is a dated snapshot of GitHub contribution data.</sub>
+<sub>Artwork is generated from <code>config.json</code> by <code>scripts/generate.py</code>; the activity panel refreshes daily from GitHub contribution data.</sub>
